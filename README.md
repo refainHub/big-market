@@ -1,2 +1,2 @@
-# xfg-frame-archetype - DDD 脚手架
+# refain-frame-archetype - DDD 脚手架
 
